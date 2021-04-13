@@ -1,9 +1,6 @@
-#### PROIECT PENTRU OBŢINEREA ATESTĂRII PROFESIONALE ÎN INFORMATICĂ  
-
---- 
 
 ## **Titlul Lucrării:** YieldCMS - Sistem de management al conținutului  
-
+#### PROIECT PENTRU OBŢINEREA ATESTĂRII PROFESIONALE ÎN INFORMATICĂ   
 ---  
 
 **Nume:** Wiliam-Ioan Toader  
