@@ -23,14 +23,14 @@
 6. [Funcționalitate](#Funcționalitate)  
 
 
-#Motivul alegerii temei  
+# Motivul alegerii temei  
 
-#Structura aplicației  
+# Structura aplicației  
 
-#Detalii tehnice  
+# Detalii tehnice  
 
-#Procesul de dezvoltare  
+# Procesul de dezvoltare  
 
-#Resurse de hardware si software  
+# Resurse de hardware si software  
 
-#Funcționalitate  
+# Funcționalitate  
