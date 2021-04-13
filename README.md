@@ -12,7 +12,7 @@
 
 ### Cuprins  
 
-1. [Motivul alegerii temei](#Introducere)  
+1. [Introducere](#Introducere)  
 2. [Structura aplicației](#Structura-aplicației)  
 3. [Detalii tehnice](#Detalii-tehnice)  
 4. [Procesul de dezvoltare](#Procesul-de-dezvoltare)  
