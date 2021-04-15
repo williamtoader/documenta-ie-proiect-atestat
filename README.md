@@ -32,6 +32,14 @@ Recomand folosirea uneia din următoarele platforme deoarece acestea oferă grat
   
 ### Instalarea pe Google Cloud Platform Cloudshell  
 
+![Cloudshell](https://github.com/williamtoader/documentatie-proiect-atestat/blob/main/cloudshell-screenshots/1.PNG?raw=true)  
+![Cloudshell](https://github.com/williamtoader/documentatie-proiect-atestat/blob/main/cloudshell-screenshots/2.PNG?raw=true)  
+![Cloudshell](https://github.com/williamtoader/documentatie-proiect-atestat/blob/main/cloudshell-screenshots/3.PNG?raw=true)  
+![Cloudshell](https://github.com/williamtoader/documentatie-proiect-atestat/blob/main/cloudshell-screenshots/4.png?raw=true)  
+![Cloudshell](https://github.com/williamtoader/documentatie-proiect-atestat/blob/main/cloudshell-screenshots/5.png?raw=true)  
+![Cloudshell](https://github.com/williamtoader/documentatie-proiect-atestat/blob/main/cloudshell-screenshots/6.png?raw=true)  
+![Cloudshell](https://github.com/williamtoader/documentatie-proiect-atestat/blob/main/cloudshell-screenshots/7.png?raw=true)  
+
 # Structura aplicației  
 
 # Detalii tehnice  
