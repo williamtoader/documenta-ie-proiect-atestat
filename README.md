@@ -34,10 +34,10 @@ Recomand folosirea uneia din următoarele platforme deoarece acestea oferă grat
 Se va intra pe adresa `https://cloud.google.com/shell`  
 ![Cloudshell](https://github.com/williamtoader/documentatie-proiect-atestat/blob/main/cloudshell-screenshots/cs.png?raw=true)  
 ![Cloudshell](https://github.com/williamtoader/documentatie-proiect-atestat/blob/main/cloudshell-screenshots/1.PNG?raw=true)  
-![Cloudshell](https://github.com/williamtoader/documentatie-proiect-atestat/blob/main/cloudshell-screenshots/2.PNG?raw=true) 
-Se va copia comanda `docker run -it --env YIELD_DOMAIN=.cloudshell.dev -p 8080:8080 wiliamtoader/yieldcms:demo` și se va insera în terminal cu `Shift + Insert` după care se dă `Enter`
+![Cloudshell](https://github.com/williamtoader/documentatie-proiect-atestat/blob/main/cloudshell-screenshots/2.PNG?raw=true)  
 ![Cloudshell](https://github.com/williamtoader/documentatie-proiect-atestat/blob/main/cloudshell-screenshots/3.PNG?raw=true)  
 ![Cloudshell](https://github.com/williamtoader/documentatie-proiect-atestat/blob/main/cloudshell-screenshots/4.png?raw=true)  
+Se va copia comanda `docker run -it --env YIELD_DOMAIN=.cloudshell.dev -p 8080:8080 wiliamtoader/yieldcms:demo` și se va insera în terminal cu `Shift + Insert` după care se dă `Enter`  
 ![Cloudshell](https://github.com/williamtoader/documentatie-proiect-atestat/blob/main/cloudshell-screenshots/5.png?raw=true)  
 ![Cloudshell](https://github.com/williamtoader/documentatie-proiect-atestat/blob/main/cloudshell-screenshots/6.png?raw=true)  
 ![Cloudshell](https://github.com/williamtoader/documentatie-proiect-atestat/blob/main/cloudshell-screenshots/7.png?raw=true)  
