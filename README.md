@@ -41,7 +41,7 @@ Se va intra pe adresa `https://cloud.google.com/shell`
   
 Se va copia comanda  
 `docker run -it --env YIELD_DOMAIN=.cloudshell.dev -p 8080:8080 wiliamtoader/yieldcms:demo`  
-și se va insera în terminal cu `Shift + Insert` după care se dă `Enter`  
+și se va insera în terminal cu `Shift + Insert` după care se dă `Enter` după care se va aștepta până când vor apărea în terminal liniile din imaginea următoare.
   
 ---  
   
