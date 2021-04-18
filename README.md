@@ -34,13 +34,13 @@ Recomand folosirea uneia din următoarele platforme deoarece acestea oferă grat
 **Se va intra pe adresa** `https://cloud.google.com/shell`  
 
 ---  
-![Cloudshell](https://github.com/williamtoader/documentatie-proiect-atestat/blob/main/cloudshell-screenshots/cs.png?raw=true)  
+![Cloudshell](cloudshell-screenshots/cs.png)  
 ---  
-![Cloudshell](https://github.com/williamtoader/documentatie-proiect-atestat/blob/main/cloudshell-screenshots/1.PNG?raw=true)  
+![Cloudshell](cloudshell-screenshots/1.PNG)  
 ---  
-![Cloudshell](https://github.com/williamtoader/documentatie-proiect-atestat/blob/main/cloudshell-screenshots/2.PNG?raw=true)  
+![Cloudshell](cloudshell-screenshots/2.PNG)  
 ---  
-![Cloudshell](https://github.com/williamtoader/documentatie-proiect-atestat/blob/main/cloudshell-screenshots/3.PNG?raw=true)  
+![Cloudshell](cloudshell-screenshots/3.PNG)  
   
 ---  
   
@@ -52,13 +52,13 @@ Se va copia comanda
   
 ---  
   
-![Cloudshell](https://github.com/williamtoader/documentatie-proiect-atestat/blob/main/cloudshell-screenshots/4.png?raw=true)  
+![Cloudshell](cloudshell-screenshots/4.png)  
 ---  
-![Cloudshell](https://github.com/williamtoader/documentatie-proiect-atestat/blob/main/cloudshell-screenshots/5.png?raw=true)  
+![Cloudshell](cloudshell-screenshots/5.png)  
 ---  
-![Cloudshell](https://github.com/williamtoader/documentatie-proiect-atestat/blob/main/cloudshell-screenshots/6.png?raw=true)  
+![Cloudshell](cloudshell-screenshots/6.png)  
 ---  
-![Cloudshell](https://github.com/williamtoader/documentatie-proiect-atestat/blob/main/cloudshell-screenshots/7.png?raw=true)  
+![Cloudshell](cloudshell-screenshots/7.png)  
 
 # Structura aplicației  
 
