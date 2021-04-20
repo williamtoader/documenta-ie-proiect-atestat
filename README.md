@@ -82,11 +82,23 @@ Așa va arăta meniul
 12. Creează pagină nouă (va deschide editorul de pagini)
 
 # Detalii tehnice  
+Aplicația este scrisă în php 7.2, este concepută să ruleze pe siteme de operare de tip linux, folosește o bază de date MariaDB, interfața este realizată cu framework-ul Bootstrap 4, iar pentru pagina de administrare am folosit biblioteca jQuery pentru a adăuga interactivitate, partea client-side fiind realizată în javascript.  
 
-# Procesul de dezvoltare  
+## Resurse de hardware si software  
+Cerințe hardware scăzute spre medii, iar cerințele software sunt adresate de imaginea docker care integrează toate programele necesare folosind la bază sistemul de operare Ubuntu 18.04, suita docker poate fi instalată din repozitoriile de pachete aferente distributiei utilizate. Pentru a rula local pachetul voi pune niște instrucțiuni mai jos.
 
-# Resurse de hardware si software  
-
-# Funcționalitate  
+# Procesul de dezvoltare   
+Am utilizat două medii de dezvolatare Microsoft Visual Studio Code și JetBrains PHPStorm, proiectul a fost dezvoltat pentru a ajuta la administratea site-ului Olimpiadei Naționale de Biologie 2020, urmănd un proces iterativ de lucru și de testare, prin care am ajuns la versiunea actuală. În această versiune demonstrativă a aplicației am automatizat procesul de configurare a serverului fără a mai fi nevoie ca utilizatorul să introducă manual utilizatorii în baza de date sau să editeze fișiere de configurare.
 
 # Prevederi privind instalarea manuală a soluției  
+După ce a fost instalat mediul de virtualizare [Docker Engine](https://docs.docker.com/engine/install/) se va intra cu permisiuni root în terminalul serverului. Pentru a porni instanța demonstrativă Yield comanda este  
+`docker run -it --env YIELD_DOMAIN=DOMENIU -p 8080:PORT wiliamtoader/yieldcms:demo` ,
+unde in loc de `DOMENIU` se va pune domeniul pe care va rula interfața de administrare iar în loc de `PORT` se va pune portul pe care va rula serverul HTTP, această comandă va descărca Yield de pe registrul de pachete Docker.
+Dacă nu se poate instala din registrul de pachete se va folosi fișierul `yield_image.tar` de pe DVD-ul primit în felul următor:  
+```
+docker load -i cale/catre/yield_image.tar
+docker tag bb715d2516d6 yieldcms
+docker run -it --env YIELD_DOMAIN=DOMENIU -p 8080:PORT yieldcms:latest
+```  
+Se va deschide o consolă bash în care se pot modifica fișierele aplicației.  
+Serverul se oprește cu comanda exit.  
