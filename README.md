@@ -61,8 +61,26 @@ Se va copia comanda
 ![Cloudshell](cloudshell-screenshots/7.png)  
 
 # Structura aplicației  
+  
+![CMS](tutorial/main2.png)  
+  
+Așa va arăta meniul  
+![Site corespunzator](tutorial/SITE.png)
+  
+## Legendă  
+1. Categorie(grup de pagini): parte structrurală a meniului, permite organizarea în meniuri dropdown a paginilor.
+2. Buton extindere/ascundere pentru paginile dintr-o categorie, pentru a nu încărca câmpul vizual al utilizatorului.
+3. Editare nume categorie
+4. Ștergere categorie
+5. Ștergere pagină **din meniu**
+6. Adăugare pagină **la meniu**
+7. Adăugare categorie nouă
+8. Salvare și publicare meniu (Nu uitați să salvați după modificarea acestuia)
+9. Previzualizare pagină
+10. Editare pagină
+11. Ștergere pagină
+12. Creează pagină nouă (va deschide editorul de pagini)
 
-![CMS](tutorial/main2.png)
 # Detalii tehnice  
 
 # Procesul de dezvoltare  
