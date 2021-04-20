@@ -15,9 +15,8 @@
 1. [Introducere](#Introducere)  
 2. [Structura aplicației](#Structura-aplicației)  
 3. [Detalii tehnice](#Detalii-tehnice)  
-4. [Procesul de dezvoltare](#Procesul-de-dezvoltare)  
-5. [Resurse de hardware si software](#Resurse-de-hardware-si-software)  
-6. [Funcționalitate](#Funcționalitate)  
+4. [Procesul de dezvoltare](#Procesul-de-dezvoltare)   
+5. [Prevederi privind instalarea manuală a soluției](#Prevederi-privind-instalarea-manuală-a-soluției)  
 
 
 # Introducere  
