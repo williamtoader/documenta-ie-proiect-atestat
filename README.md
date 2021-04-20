@@ -62,6 +62,7 @@ Se va copia comanda
 
 # Structura aplicației  
 
+![CMS](tutorial/main2.png)
 # Detalii tehnice  
 
 # Procesul de dezvoltare  
